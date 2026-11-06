@@ -1,0 +1,16 @@
+Orbit 368 Falcon 96.6 5.0 0 7 IDLE
+Swift 532 Kestrel 94.8 2.0 6 22 IDLE
+Wisp 778 Condor 49.8 10.0 23 10 IDLE
+Atlas 472 Falcon 40.0 5.0 5 1 CHARGING
+Mist 991 Condor 82.3 10.0 9 24 IDLE
+Lynx 887 Falcon 98.4 5.0 28 14 IDLE
+Jet 553 Kestrel 78.4 2.0 4 27 IDLE
+Vector 755 Condor 33.1 10.0 4 29 IDLE
+Flash 989 Kestrel 84.7 2.0 12 30 IDLE
+Titan 694 Kestrel 85.9 2.0 25 7 IDLE
+Falcon 515 Falcon 65.4 5.0 23 6 IDLE
+Ghost 894 Falcon 56.7 5.0 5 20 IDLE
+Flint 386 Condor 67.1 10.0 5 21 IDLE
+Rocket 317 Condor 34.1 10.0 11 7 IDLE
+Raven 922 Falcon 30.0 5.0 17 4 IDLE
+Glide 933 Kestrel 75.7 2.0 25 2 IDLE

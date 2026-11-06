@@ -1,0 +1,32 @@
+Orbit 368 Falcon 68.8471 5 4 2 IDLE
+Deliveries Completed: 2
+Swift 532 Kestrel 94.8 2 6 22 IDLE
+Deliveries Completed: 0
+Wisp 778 Condor 20.1161 10 24 4 CHARGING
+Deliveries Completed: 1
+Atlas 472 Falcon 40 5 5 1 CHARGING
+Deliveries Completed: 0
+Mist 991 Condor 40.6578 10 11 17 IDLE
+Deliveries Completed: 1
+Lynx 887 Falcon 21.6688 5 17 16 CHARGING
+Deliveries Completed: 4
+Jet 553 Kestrel 78.4 2 4 27 IDLE
+Deliveries Completed: 0
+Vector 755 Condor 25.4079 10 6 28 CHARGING
+Deliveries Completed: 1
+Flash 989 Kestrel 84.7 2 12 30 IDLE
+Deliveries Completed: 0
+Titan 694 Kestrel 85.9 2 25 7 IDLE
+Deliveries Completed: 0
+Falcon 515 Falcon 65.4 5 23 6 IDLE
+Deliveries Completed: 0
+Ghost 894 Falcon 40.7599 5 3 15 IDLE
+Deliveries Completed: 1
+Flint 386 Condor 31.5727 10 1 26 IDLE
+Deliveries Completed: 3
+Rocket 317 Condor 28.1968 10 9 6 CHARGING
+Deliveries Completed: 1
+Raven 922 Falcon 24.88 5 17 6 CHARGING
+Deliveries Completed: 1
+Glide 933 Kestrel 75.7 2 25 2 IDLE
+Deliveries Completed: 0

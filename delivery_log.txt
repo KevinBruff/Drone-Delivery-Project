@@ -1,0 +1,21 @@
+Order 5001: UNASSIGNED
+Order 5002: Drone 778(Wisp) distance 6.08276 49.8 -> 20.1161
+Order 5003: Drone 755(Vector) distance 2.23607 33.1 -> 25.4079
+Order 5004: UNASSIGNED
+Order 5005: Drone 386(Flint) distance 7.61577 67.1 -> 44.2527
+Order 5006: Drone 887(Lynx) distance 8.48528 98.4 -> 75.6594
+Order 5007: Drone 386(Flint) distance 1 44.2527 -> 40.2127
+Order 5008: Drone 386(Flint) distance 2 40.2127 -> 31.5727
+Order 5009: Drone 991(Mist) distance 7.28011 82.3 -> 40.6578
+Order 5010: UNASSIGNED
+Order 5011: Drone 368(Orbit) distance 5.09902 96.6 -> 80.4871
+Order 5012: UNASSIGNED
+Order 5013: Drone 317(Rocket) distance 2.23607 34.1 -> 28.1968
+Order 5014: Drone 887(Lynx) distance 5.09902 75.6594 -> 60.1584
+Order 5015: Drone 887(Lynx) distance 5.83095 60.1584 -> 38.7005
+Order 5016: Drone 887(Lynx) distance 6.08276 38.7005 -> 21.6688
+Order 5017: Drone 894(Ghost) distance 5.38516 56.7 -> 40.7599
+Order 5018: Drone 922(Raven) distance 2 30 -> 24.88
+Order 5019: UNASSIGNED
+Order 5020: Drone 368(Orbit) distance 3 80.4871 -> 68.8471
+Assigned 15 of 20. Total distance flown: 69.433
